@@ -24,6 +24,8 @@ footer {
     box-sizing: border-box;
     z-index: 999;
     background-color: white;
+    font-size: 0.75em;
+    font-weight: 500;
 }
 
 a {
