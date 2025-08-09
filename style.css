@@ -17,8 +17,9 @@ h1, h2, footer {
 footer {
     position: fixed;
     bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    right: 0;
+    text-align: center;
     padding: 0.35em;
     box-sizing: border-box;
     z-index: 999;
